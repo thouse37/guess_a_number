@@ -1,1 +1,1 @@
-# guess_a-number
+# guess a number javascript mini game project
